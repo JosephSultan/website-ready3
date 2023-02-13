@@ -51,6 +51,9 @@ export default function Landing() {
             Caption if needed
           </p> */}
       </div>
+      <br />
+                    <br />
+                          <br />
       <div className="mt-20 space-y-6 text-center mb-28 md:mt-32">
         <h1 className="text-lg font-semibold tracking-wide text-center text-gray-100 text-opacity-75 uppercase md:mx-10 md:text-gray-600">
           Grow your processes 10x faster
