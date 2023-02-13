@@ -5,21 +5,19 @@ export default function Landing() {
         <div className="my-20 space-y-10 text-center sm:my-16 md:space-y-14">
           <div className="space-y-5 md:space-y-8">
             <h1 className="text-3xl font-semibold text-white sm:text-5xl md:text-6xl md:text-gray-800">
-              Welcome to Uranium.
+              We help you with Operational Excellence
             </h1>
             <h2 className="text-lg text-gray-100 md:text-2xl md:mx-10 md:text-gray-600">
-              Uranium is a powerful chemical element of atomic number
-              92 used in nuclear fission. That's precisely what we do:
-              we make you go nuclear.
+             We bring any vision and any project into reality for successful CX teams
             </h2>
           </div>
           <div className="transition duration-500 ease-in-out transform scale-100 translate-x-0 translate-y-0 opacity-100">
             <div className="space-y-2">
               <a
-                href="#"
+                href="https://v7vwsn9btsl.typeform.com/to/LSlyWuPK?typeform-source=cxops.netlify.app"
                 className="px-5 py-2 font-semibold text-gray-200 duration-500 ease-in-out shadow-lg hover:-translate-y-1.5 rounded-2xl md:text-xl md:px-8 md:py-3 bg-gradient-to-br to-purple-600 from-blue-500 hover:bg-gradient-to-br hover:to-blue-500 hover:from-purple-600"
               >
-                Get this template{' '}
+                Book a FREE consultation call{' '}
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 20 20"
@@ -34,9 +32,7 @@ export default function Landing() {
                 </svg>
               </a>
               <div className="pt-4 text-sm text-gray-200 sm:pt-2 md:text-gray-600">
-                Modular, easy-to-edit Next.js + Tailwind template
                 <br />
-                You'll enjoy the experience.
               </div>
             </div>
           </div>
@@ -47,11 +43,11 @@ export default function Landing() {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://godly.website"
+            href=" "
           >
             <img
               className="transition duration-700 shadow-xl rounded-xl ring-1 ring-black ring-opacity-5 hover:transform hover:scale-105"
-              src="images/product.png"
+              src=" "
               alt="Product Image"
             />
           </a>
