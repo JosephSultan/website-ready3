@@ -1,6 +1,9 @@
 export default function Landing() {
   return (
     <section>
+      <br />
+      <br />
+      <br />
       <div className="max-w-3xl mx-8 md:mx-auto">
         <div className="my-20 space-y-10 text-center sm:my-16 md:space-y-14">
           <div className="space-y-5 md:space-y-8">

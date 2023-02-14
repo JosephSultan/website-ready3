@@ -9,15 +9,14 @@ export default function Features() {
           <div className="transition duration-500 ease-in-out transform scale-100 translate-x-0 translate-y-0 opacity-100">
             <div className="space-y-5 md:text-center">
               <div className="inline-block rounded-lg bg-[#302953] bg-opacity-60 px-3 py-1 text-sm font-semibold text-indigo-100 hover:cursor-pointer hover:bg-opacity-40">
-                Awesome Features
+                  
               </div>
               <h1 className="text-3xl font-semibold text-gray-100 md:text-5xl">
               Our most in-demand projects
               </h1>
               <p className="text-xl text-gray-200 md:text-2xl">
-                Each feature is specifcially made for devs and aimed
-                at making <span className="font-semibold">your</span>{' '}
-                life easier.
+               We take any project that your team need and bring <span className="font-semibold">your vision</span>{' '}
+               to reality.
               </p>
             </div>
           </div>
