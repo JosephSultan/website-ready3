@@ -3,6 +3,7 @@ export default function Features() {
     <section
       id="features"
       className="py-5 bg-gradient-to-t from-[#524790] to-[#8c79ed]"
+      style={{ height: "200px" }}
     >
       <div className="mx-5 max-w-7xl md:mx-10 lg:mx-20 xl:mx-auto">
         <div className="space-y-16 md:space-y-24">
@@ -21,9 +22,7 @@ export default function Features() {
               </p>
             </div>
           </div>
-          <br />
-          <br />
-          <br />
+        
           <div className="grid grid-cols-1 grid-rows-2 gap-8 text-lg md:grid-cols-2 lg:grid-cols-3">
             <div className="flex shadow-md hover:shadow-[#00e4ff] flex-col justify-between p-5 transition duration-400 bg-white bg-opacity-20 rounded-xl card-hover group space-y-5">
               <svg
