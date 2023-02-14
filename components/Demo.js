@@ -16,18 +16,27 @@ export default function Demo() {
           </div>
         </div>
       </div>
-      <div className="max-w-3xl px-8 mx-auto sm:px-6 lg:max-w-5xl lg:px-8">
-        <div className="inline-block px-3 py-1 text-sm rounded-lg bg-emerald-100 bg-opacity-60 text-emerald-500 hover:cursor-pointer hover:bg-opacity-80">
+     
+       
+
+
+
+        <div className="max-w-3xl px-8 mx-auto sm:px-6 sm:pt-20 lg:max-w-5xl lg:px-8">
+        <div className="inline-block px-3 py-1 mt-12 text-sm rounded-lg md:md-0 bg-emerald-100 bg-opacity-60 text-emerald-500 hover:cursor-pointer hover:bg-opacity-80">
           Understanding
         </div>
         <h2 className="mt-4 bg-gradient-to-r from-[#1D976C] to-[#38ef7d] bg-clip-text text-3xl font-medium text-transparent">
         Consultation call to understand your needs.
+
         </h2>
         <p className="mt-4 text-lg font-normal lg:max-w-3xl">
-          A free call to understand the requirements of your departament, and the expectations for the project to be implemented. 
+           A free call to unerstand your needs, budget and expectations
         </p>
        
-      <div className="max-w-3xl px-8 mx-auto sm:px-6 sm:pt-20 lg:max-w-5xl lg:px-8">
+        </div>
+
+
+        <div className="max-w-3xl px-8 mx-auto sm:px-6 sm:pt-20 lg:max-w-5xl lg:px-8">
         <div className="inline-block px-3 py-1 mt-12 text-sm rounded-lg md:md-0 bg-emerald-100 bg-opacity-60 text-emerald-500 hover:cursor-pointer hover:bg-opacity-80">
           Get the wheel moving
         </div>
@@ -36,10 +45,28 @@ export default function Demo() {
 
         </h2>
         <p className="mt-4 text-lg font-normal lg:max-w-3xl">
-           We will create a personalised proposal with the timeline, budget, expectations and implementation steps
+           We will create a personalised proposal with the timeline, budget and expectations.
         </p>
        
         </div>
+
+
+
+      <div className="max-w-3xl px-8 mx-auto sm:px-6 sm:pt-20 lg:max-w-5xl lg:px-8">
+        <div className="inline-block px-3 py-1 mt-12 text-sm rounded-lg md:md-0 bg-emerald-100 bg-opacity-60 text-emerald-500 hover:cursor-pointer hover:bg-opacity-80">
+          Deliver
+        </div>
+        <h2 className="mt-4 bg-gradient-to-r from-[#1D976C] to-[#38ef7d] bg-clip-text text-3xl font-medium text-transparent">
+        Align the project's process and receive the results
+
+        </h2>
+        <p className="mt-4 text-lg font-normal lg:max-w-3xl">
+           We will align the implementation steps with you, and deliver the project!
+        </p>
+       
+
+ 
+  
       </div>
     </section>
   );
