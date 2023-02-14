@@ -10,7 +10,7 @@ export default function Header() {
             href="/"
             className="text-4xl font-semibold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-red-300 to-amber-300 md:text-gray-900"
           >
-            Uranium
+            CX Ops
           </a>
           <button
             className="px-3 py-1 bg-white rounded-full cursor-pointer bg-opacity-30 focus:outline-none md:hidden"
@@ -48,7 +48,7 @@ export default function Header() {
                   href="#features"
                   className="text-lg text-white md:text-black hover:text-gray-300 md:hover:text-gray-700"
                 >
-                  Features
+                  Projects
                 </a>
               </li>
               <li>
@@ -56,7 +56,7 @@ export default function Header() {
                   href="#demo"
                   className="text-lg text-white md:text-black hover:text-gray-300 md:hover:text-gray-700"
                 >
-                  Demo
+                  Steps
                 </a>
               </li>
               <li>
@@ -64,15 +64,15 @@ export default function Header() {
                   href="/"
                   className="text-lg text-white md:text-black hover:text-gray-300 md:hover:text-gray-700"
                 >
-                  Sign in
+                   
                 </a>
               </li>
               <li>
                 <a
-                  href="/"
+                  href="https://v7vwsn9btsl.typeform.com/to/LSlyWuPK?typeform-source=cxops.netlify.app"
                   className="bg-white rounded-full bg-opacity-40 px-4 text-lg text-white md:text-black shadow-sm transition-colors duration-75 group gap-[0.25em] inline-flex items-center py-1.5 hover:cursor-pointer hover:bg-opacity-90"
                 >
-                  Sign up
+                 A free consultation call
                   <svg
                     viewBox="0 0 16 16"
                     height="1em"
