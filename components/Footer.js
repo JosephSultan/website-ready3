@@ -74,7 +74,7 @@ export default function Footer() {
           </a>
         
         </p>
-      </div>
+      </div>  
     </footer>
   );
 }
