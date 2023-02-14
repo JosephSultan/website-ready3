@@ -11,9 +11,7 @@ export default function Features() {
               <div className="inline-block rounded-lg bg-[#302953] bg-opacity-60 px-3 py-1 text-sm font-semibold text-indigo-100 hover:cursor-pointer hover:bg-opacity-40">
                 
               </div>
-              <br />
-              <br />
-              <br />
+           
               <h1 className="text-3xl font-semibold text-gray-100 md:text-5xl">
               Our most in-demand projects
               </h1>
@@ -23,6 +21,9 @@ export default function Features() {
               </p>
             </div>
           </div>
+          <br />
+          <br />
+          <br />
           <div className="grid grid-cols-1 grid-rows-2 gap-8 text-lg md:grid-cols-2 lg:grid-cols-3">
             <div className="flex shadow-md hover:shadow-[#00e4ff] flex-col justify-between p-5 transition duration-400 bg-white bg-opacity-20 rounded-xl card-hover group space-y-5">
               <svg
