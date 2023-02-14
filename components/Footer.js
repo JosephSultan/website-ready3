@@ -6,86 +6,86 @@ export default function Footer() {
           <div className="grid grid-cols-2 gap-8 mb-20 md:gap-28 md:grid-cols-4">
             <ul className="space-y-1.5">
               <li className="mb-4 font-semibold text-white uppercase">
-                Uranium
+                 
               </li>
               <li>
-                <a href="#">About</a>
+                <a href="#"> </a>
               </li>
               <li>
-                <a href="#">Team</a>
+                <a href="#"> </a>
               </li>
               <li>
-                <a href="#">Careers</a>
+                <a href="#"> </a>
               </li>
               <li>
-                <a href="#pricing">Pricing</a>
+                <a href="#pricing"> </a>
               </li>
               <li>
-                <a href="#">Blog</a>
+                <a href="#"> </a>
               </li>
             </ul>
             <ul className="space-y-1.5">
               <li className="mb-4 font-semibold text-white uppercase">
-                Product
+                 
               </li>
               <li>
-                <a href="#features">Features</a>
+                <a href="#features"> </a>
               </li>
               <li>
-                <a href="#">Design</a>
+                <a href="#"> </a>
               </li>
               <li>
-                <a href="#">Purpose</a>
+                <a href="#"> </a>
               </li>
               <li>
-                <a href="#">System Status</a>
+                <a href="#">  </a>
               </li>
             </ul>
             <ul className="space-y-1.5">
               <li className="mb-4 font-semibold text-white uppercase">
-                Support
+                 
               </li>
               <li>
-                <a href="#">Contact Us</a>
+                <a href="#"> </a>
               </li>
               <li>
-                <a href="#">Twitter</a>
+                <a href="#"> </a>
               </li>
               <li>
-                <a href="#">Slack</a>
-              </li>
+                <a href="#"> </a>
+              </li> 
               <li>
-                <a href="#">System Status</a>
+                <a href="#"> </a>
               </li>
             </ul>
             <ul className="space-y-1.5">
               <li className="mb-4 font-semibold text-white uppercase">
-                Resources
+                 
               </li>
               <li>
-                <a href="#">Developer API</a>
+                <a href="#">  </a>
               </li>
               <li>
-                <a href="#">Help Center</a>
+                <a href="#"> </a>
               </li>
               <li>
-                <a href="#">FAQ</a>
+                <a href="#"> </a>
               </li>
               <li>
-                <a href="#">Security</a>
+                <a href="#"> </a>
               </li>
             </ul>
           </div>
         </div>
         <p className="-mt-8 text-center text-gray-300">
-          Made with ♡ by{' '}
+          Made with ❤️ 
           <a
-            href="https://saurish.com/?utm_source=uranium"
+            href=" "
             className="underline"
           >
-            Saurish
+            
           </a>
-          . &copy; Uranium 2022. All rights reserved.
+        
         </p>
       </div>
     </footer>
