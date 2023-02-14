@@ -54,6 +54,8 @@ export default function Landing() {
       <br />
                     <br />
                           <br />
+                            <br />
+                              <br />
       <div className="mt-20 space-y-6 text-center mb-28 md:mt-32">
         <h1 className="text-lg font-semibold tracking-wide text-center text-gray-100 text-opacity-75 uppercase md:mx-10 md:text-gray-600">
           Grow your processes 10x faster
@@ -61,43 +63,13 @@ export default function Landing() {
               <br />
                     <br />
                           <br />
+                            <br />
+                              <br />
         <div className="w-3/5 p-6 mx-auto bg-gray-100 rounded-2xl bg-opacity-70 md:bg-opacity-100 md:p-10">
           <div className="flex flex-wrap items-center justify-center flex-shrink -mt-6 -ml-6 space-x-6 space-y-6">
-            <img
-              className="h-5 mt-6 ml-6 md:h-8"
-              src="images/stripe.svg"
-              alt=""
-            />
-            <img
-              className="h-7 md:h-5"
-              src="images/stockx.png"
-              alt=""
-            />
-            <img
-              className="h-9 md:h-6"
-              src="images/openai.png"
-              alt=""
-            />
-            <img
-              className="h-5 md:h-8"
-              src="images/moderna.png"
-              alt=""
-            />
-            <img
-              className="h-5 md:h-5"
-              src="images/oracle.png"
-              alt=""
-            />
-            <img
-              className="h-5 md:h-9"
-              src="images/honey.png"
-              alt=""
-            />
-            <img
-              className="h-5 md:h-8"
-              src="images/digitalocean.svg"
-              alt=""
-            />
+             <h1 className="text-lg font-semibold tracking-wide text-center text-gray-100 text-opacity-75 uppercase md:mx-10 md:text-gray-600">
+          Grow your processes 10x faster
+        </h1>
           </div>
         </div>
       </div>
