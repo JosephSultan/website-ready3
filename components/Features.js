@@ -11,6 +11,9 @@ export default function Features() {
               <div className="inline-block rounded-lg bg-[#302953] bg-opacity-60 px-3 py-1 text-sm font-semibold text-indigo-100 hover:cursor-pointer hover:bg-opacity-40">
                 
               </div>
+              <br />
+              <br />
+              <br />
               <h1 className="text-3xl font-semibold text-gray-100 md:text-5xl">
               Our most in-demand projects
               </h1>
