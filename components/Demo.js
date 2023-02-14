@@ -5,7 +5,7 @@ export default function Demo() {
         <div className="transition duration-500 ease-in-out transform scale-100 translate-x-0 translate-y-0 opacity-100">
           <div className="mb-12 space-y-5 text-left md:mb-20 md:text-center">
             <div className="inline-block px-3 py-1 text-sm font-semibold rounded-lg bg-emerald-100 bg-opacity-60 text-emerald-500 hover:cursor-pointer hover:bg-opacity-80">
-              Product in Action
+            🚀
             </div>
             <h1 className="text-3xl font-semibold text-gray-800 md:text-5xl">
             How does it work?
