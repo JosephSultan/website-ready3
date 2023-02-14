@@ -12,12 +12,6 @@ export default function Footer() {
                 <a href="#"> </a>
               </li>
               <li>
-                <a href="#"> </a>
-              </li>
-              <li>
-                <a href="#"> </a>
-              </li>
-              <li>
                 <a href="#pricing"> </a>
               </li>
               <li>
@@ -37,9 +31,6 @@ export default function Footer() {
               <li>
                 <a href="#"> </a>
               </li>
-              <li>
-                <a href="#">  </a>
-              </li>
             </ul>
             <ul className="space-y-1.5">
               <li className="mb-4 font-semibold text-white uppercase">
@@ -54,9 +45,7 @@ export default function Footer() {
               <li>
                 <a href="#"> </a>
               </li> 
-              <li>
-                <a href="#"> </a>
-              </li>
+
             </ul>
             <ul className="space-y-1.5">
               <li className="mb-4 font-semibold text-white uppercase">
@@ -71,14 +60,12 @@ export default function Footer() {
               <li>
                 <a href="#"> </a>
               </li>
-              <li>
-                <a href="#"> </a>
-              </li>
+          
             </ul>
           </div>
         </div>
         <p className="-mt-8 text-center text-gray-300">
-          Made with ❤️ 
+          Made with ❤️ by actual CX folks
           <a
             href=" "
             className="underline"
